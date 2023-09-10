@@ -8,6 +8,7 @@ In this task, I have performed exploratory data analysis on a dataset related to
 For the golden task of Phase 1, I have worked on a breast cancer prediction project. Using machine learning techniques, I  have built a predictive model to classify breast cancer cases as benign or malignant based on a set of features. The model's performance was evaluated using various metrics to ensure its accuracy and reliability.
 
 Phase-2:
+
 //Normal Task -Email Spam Detection
 Email Filtering: One of the primary methods for spam mail detection is email filtering. It involves categorize incoming emails into spam and non-spam. Machine learning algorithms can be trained to filter out spam mails based on their content and metadata.And the Natural Language Processing,Text Classification,Feature Engineering,Supervised Learning,Unsupervised Learning are also used in Email Spam Detection.
 
